@@ -4,3 +4,5 @@
         实验实验，远程可以啦hahahaha@!! 
  4th  分支操作：create a new branch
  5th Creating a new branch is quick and simple
+ 6th 分支管理实验
+ 
